@@ -6,9 +6,9 @@ Junior IT technician based in Naples, Italy. I build and repair desktop PCs, ins
 
 In the past I developed scripts and interfaces for a FiveM server with around 50 users, and hosted Minecraft, Terraria and Palworld servers.
 
-I work with Lua, JavaScript, HTML, CSS, Python and C#. I read, write and speak English well.
+I work with Lua, JavaScript, HTML, CSS, Python and C#.
 
-I'm looking for IT support work, remote or in the Naples area.
+Italian is my first language and English my second: I read and write it comfortably and speak it fairly well.
 
 📧 gabriele.buo.it@gmail.com
 
@@ -20,8 +20,8 @@ Tecnico informatico junior di Napoli. Monto e riparo PC desktop, installo e conf
 
 In passato ho sviluppato script e interfacce per un server FiveM con circa 50 utenti e gestito server Minecraft, Terraria e Palworld.
 
-Uso Lua, JavaScript, HTML, CSS, Python e C#. Leggo e scrivo bene in inglese e me la cavo parlando.
+Uso Lua, JavaScript, HTML, CSS, Python e C#.
 
-Cerco lavoro nel supporto IT, da remoto o nella zona di Napoli.
+Madrelingua italiano, con l'inglese come seconda lingua: lo leggo e lo scrivo senza problemi e lo parlo abbastanza bene.
 
 📧 gabriele.buo.it@gmail.com
