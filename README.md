@@ -1,6 +1,4 @@
-- 👋 Hi, I’m OkanFeNwa
-- 👀 I’m interested in scripting for FiveM
-- 🌱 I’m currently learning Lua
+Tecnico IT junior / Junior IT technician · Python, C#, Lua, JS · Windows, Linux, self-hosting · Napoli
 
 <!---
 OkanFeNwa/OkanFeNwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
